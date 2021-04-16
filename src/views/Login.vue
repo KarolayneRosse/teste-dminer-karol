@@ -4,7 +4,7 @@
       <b-form>
         <b-form-group label="Nome">
           <b-input-group>
-            <b-form-input type="text" v-model="form.userName"></b-form-input>
+            <b-form-input type="text" v-model="form.userName" class="border-dark"></b-form-input>
           </b-input-group>
         </b-form-group>
 
